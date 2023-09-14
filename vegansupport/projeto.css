@@ -1,0 +1,71 @@
+body {
+    background-image: url("pig.jpg");
+    background-size: cover;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: white;
+
+}
+
+header {
+    font-size: 40px;
+    text-shadow: 2px 2px rgb(49, 47, 47);
+    color: rgb(205, 196, 196);
+    font-family: Andale Mono, monospace;
+    
+}
+
+section {
+    text-align: justify;
+    background: rgb(95, 92, 92);
+    color: whitesmoke;
+    width: 500px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px black;
+    padding: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1, h6 {
+    padding: 0;
+    margin: 0;
+}
+
+
+
+footer {
+    font-style: italic;
+}
+
+#section {
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+    width: 400px;
+    position: relative;
+    margin: auto;
+    border-radius: 10px;
+    color: gray;
+    box-shadow: 2px 2px 8px black;
+    font-family: Andale Mono, monospace;
+
+}
+
+.button, input[type="button"]{
+  font-family: Andale Mono, monospace;
+  border-radius:10px;
+}
+
+select {
+    height: 30px;
+    border-radius: 10px;
+}
+
+#botao3 {
+    position: relative;
+    margin: auto;
+    display: flex;
+    font-family: Andale Mono, monospace;
+    border-radius:10px;
+}

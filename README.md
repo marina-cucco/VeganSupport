@@ -7,6 +7,6 @@ This is the project that made me fall in love with programming, and what motivat
 
 It`s only a starting point; far from being finished.
 
-I plan to go back to working on it onde day :)
+I plan to go back to working on it one day :)
 
 
